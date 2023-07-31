@@ -17,7 +17,6 @@ astor==0.8.1
 black==22.6.0
 cached-property==1.5.2
 certifi==2021.5.30
-click==8.0.4
 dataclasses==0.8
 gast==0.2.2
 google-pasta==0.2.0
